@@ -1,0 +1,1 @@
+Batch B2045 failed assay. Reactor R-3 temperature was too high during drying.

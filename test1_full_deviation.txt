@@ -1,0 +1,31 @@
+DEVIATION REPORT
+
+Deviation No.: DEV-2026-041
+Title: Drying temperature excursion in Fluid Bed Dryer FBD-02
+Product: Atorvastatin Calcium API
+Batch No.: AT-26-0412
+Process Stage: Final drying
+Equipment ID: FBD-02 (Fluid Bed Dryer)
+Area / Location: Production Block B, Drying Room 2
+Department: API Manufacturing
+Date of Occurrence: 28-Oct-2026 (approx. 02:15 to 06:40)
+Date Detected: 28-Oct-2026, 07:00
+Detected By: Ravi Kumar, Production Operator (during shift handover)
+Classification (initial): Major
+
+Description:
+During the final drying of batch AT-26-0412, the inlet air temperature on FBD-02 rose to 78 C against the validated limit of 60 C (+/- 5 C). The excursion lasted about 4 hours 25 minutes during the night shift. No high-temperature alarm was triggered on the control panel. The excursion was noticed by the incoming morning shift operator when reviewing the trend chart at handover.
+
+Observations at the time of discovery:
+- Temperature sensor TT-204 on FBD-02 was reading normally on the local display.
+- The alarm set point on the control panel was found at 90 C instead of 65 C.
+- The night shift operator on duty had joined the company three weeks earlier.
+- The batch record for the drying step was filled in at 07:30, after the excursion was found.
+
+Immediate actions taken:
+1. Dryer stopped and batch AT-26-0412 placed on QA hold.
+2. Samples sent to QC for assay, related substances and loss on drying.
+3. Production Head and QA Head informed at 07:20.
+
+Impact assessment (preliminary):
+Possible degradation of the API and higher related substances. Residual solvent levels may also be affected. Other batches dried in FBD-02 during the last 30 days are to be reviewed.
